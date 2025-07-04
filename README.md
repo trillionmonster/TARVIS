@@ -1,1 +1,1 @@
-# Auto Tuning And Recall for Vector Indexing Systems
+# Tuning And Recall for Vector Indexing Systems
